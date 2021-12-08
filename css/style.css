@@ -53,8 +53,18 @@
 .section2b{
 background-color: #e4bc01;
 float:right;
+border:none;
+height: 1.75rem;
+width: 5.3rem;
 }
+.section2{
+background-color: #fafafa;
 
+}
+.p-space{
+margin-top: 4rem;
+
+}
 .text{
 
 font-size: 1.19rem;
@@ -64,6 +74,7 @@ font-size: 1.19rem;
 }
 footer{
     background-color:#e4bc01 ;
+    padding-top: 2.5rem;
 }
 h1{
     color: #31332e;
@@ -72,12 +83,29 @@ h1{
     font-size: 1.19rem;
     font-family: "lacuna_regularregular"; 
 }
-.bi-instagram{
-    color: #fbf4d6;
+.social-icon{
+    color: #e4bc01;
+    background-color:#fbf4d6 ;
+    height: 1.875rem !important;
+    width: 1.875rem !important;
+    border-radius: 50%;
+    margin: 1rem !important;
+    padding-top: 0.2rem;
 }
-.bi-facebook{
-color: #fbf4d6;
+.social{
+    color:#e4bc01;
 }
-.bi-twitter{
-color:#fbf4d6;
+.bi-quote{
+    font-size: 2.5rem;
+}
+
+footer span{
+    font-size: 1.8rem;
+     color:#31332e;
+     font-family:'League Gothic'
+}
+footer p{
+    font-family: "lacuna_regularregular";
+    font-size:1.17rem;
+    color:#31332e;
 }
